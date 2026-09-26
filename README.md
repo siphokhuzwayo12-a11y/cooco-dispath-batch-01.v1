@@ -8,7 +8,19 @@ Central portal hub for **cooco-dispath-batch-01.v1**. All operational schemas, b
 
 ## 🌐 Live Portal Hub
 
-* 🚀 **[Launch Main Index Portal (index.html)](https://siphokhuzwayo12-a11y.github.io/cooco-dispath-batch-01.v1/)**
+* 🚀 # Cooco Dispatch Batch 01 (v1)
+
+**Scapush Precision Master Dispatch Architecture**
+
+Welcome to the central portal hub for **cooco-dispath-batch-01.v1**.
+
+---
+
+## 🌐 Live Portal Access
+
+Click the link below to open the live interactive portal directly in your browser:
+
+* 🚀 **[Launch Live Portal (index.html)](https://siphokhuzwayo12-a11y.github.io/cooco-dispath-batch-01.v1/)**
 
 ---
 
