@@ -25,5 +25,3 @@ Click the link below to open the live interactive portal directly in your browse
 | **Scapush Charter v3.3** | 🌐 [Open Charter v3.3](https://siphokhuzwayo12-a11y.github.io/cooco-dispath-batch-01.v1/scapush_charter_v3.3.html) | 📄 [View Source](https://github.com/siphokhuzwayo12-a11y/cooco-dispath-batch-01.v1/blob/main/scapush_charter_v3.3.html) |
 
 ---
-
-* 📁 [Broiler Stage Thermal Matrix Folder Assets](https://github.com/siphokhuzwayo12-a11y/cooco-dispath-batch-01.v1/tree/main/Broiler%20Stage%20Thermal%20Matrix%20_%20Lwan)
