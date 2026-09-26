@@ -26,7 +26,4 @@ Click the link below to open the live interactive portal directly in your browse
 
 ---
 
-## 📁 Subfolder Resources
-
-* 📁 [Broiler Dwarf Wall Auto Cover Folder Assets](https://github.com/siphokhuzwayo12-a11y/cooco-dispath-batch-01.v1/tree/main/Broiler%20Dwarf%20Wall%20Auto%20Cover%20Mod)
 * 📁 [Broiler Stage Thermal Matrix Folder Assets](https://github.com/siphokhuzwayo12-a11y/cooco-dispath-batch-01.v1/tree/main/Broiler%20Stage%20Thermal%20Matrix%20_%20Lwan)
