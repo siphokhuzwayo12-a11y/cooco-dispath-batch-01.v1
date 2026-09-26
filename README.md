@@ -1,18 +1,7 @@
 # Cooco Dispatch Batch 01 (v1)
 
-**Scapush Precision Master Dispatch Architecture**
-
-Central portal hub for **cooco-dispath-batch-01.v1**. All operational schemas, brooding dispatches, and master specification matrices are accessible via the embedded click-to-open links below.
-
----
-
-## 🌐 Live Portal Hub
-
-* 🚀 # Cooco Dispatch Batch 01 (v1)
-
-**Scapush Precision Master Dispatch Architecture**
-
-Welcome to the central portal hub for **cooco-dispath-batch-01.v1**.
+* 🚀 Welcome to the central portal hub for **cooco-dispath-batch-01.v1**.
+Central portal hub for **cooco-dispath-batch-01.v1**. All operational schemas, brooding dispatches, and master specification matrices are accessible via the embedded click-to-open links.
 
 ---
 
@@ -20,9 +9,7 @@ Welcome to the central portal hub for **cooco-dispath-batch-01.v1**.
 
 Click the link below to open the live interactive portal directly in your browser:
 
-* 🚀 **[Launch Live Portal (index.html)](https://siphokhuzwayo12-a11y.github.io/cooco-dispath-batch-01.v1/)**
-
----
+ ---
 
 ## 🔗 Embedded Dispatch Links
 
